@@ -1,4 +1,5 @@
-remote_theme: pages-themes/cayman@v0.2.0
-
-title: [Peter's github]
-description: [Challenge for Web Mapping course]
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
