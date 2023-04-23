@@ -4,7 +4,7 @@ This repository contains visualizations of different types of maps and charts.
 
 ## Choropleth Map
 
-Link: [https://chiyuchen.github.io/Challenge3_choropleth-map/](https://chiyuchen.github.io/Challenge3_choropleth-map/)
+Link: [https://chiyuchen.github.io/Chanllenge3_choropleth-map/](https://chiyuchen.github.io/Chanllenge3_choropleth-map/)
 
 A choropleth map is used to visualize and communicate the spatial distribution and variation of a particular variable, such as population density, by using different colors or shades to represent different levels of the variable. It can quickly highlight areas with high or low values, and help identify patterns or trends across regions. This type of map is commonly used in fields such as geography, sociology, economics, and public policy to analyze and present data on various social and economic phenomena, and to inform decision-making and policy development.
 
