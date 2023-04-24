@@ -1,11 +1,10 @@
 # Peter's WebMapping
 
-Hi! I'm Peter, a GIS analyst from Taiwan. In this website you'll see my works on Web Mapping course with the usage of html, css, javascript and leaflet. Hope you'll like it. 
+A repository containing visualizations of different types of maps and charts.
 
 ## Choropleth Map
 
-<img src="https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/ChoroplethMap.png" alt="Choropleth Map" width="300"/>
-
+![Choropleth Map](https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/ChoroplethMap.png)
 
 Link: [https://chiyuchen.github.io/Chanllenge3_choropleth-map/](https://chiyuchen.github.io/Chanllenge3_choropleth-map/)
 
@@ -13,7 +12,7 @@ A choropleth map is used to visualize and communicate the spatial distribution a
 
 ## Proportional Map
 
-<img src="https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/ProportionalMap.png" alt="Choropleth Map" width="300"/>
+![Proportional Map](https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/ProportionalMap.png)
 
 Link: [https://chiyuchen.github.io/Challenge3_proportional-symbol-map/](https://chiyuchen.github.io/Challenge3_proportional-symbol-map/)
 
@@ -21,7 +20,7 @@ A proportional symbol map is used to visualize and communicate the spatial distr
 
 ## Chart
 
-<img src="https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/Chart.png" alt="Choropleth Map" width="200"/>
+![Chart](https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/ChartMap.png)
 
 Link: [https://chiyuchen.github.io/Challenge3_charts/](https://chiyuchen.github.io/Challenge3_charts/)
 
