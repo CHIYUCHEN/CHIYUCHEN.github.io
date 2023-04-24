@@ -20,7 +20,7 @@ A proportional symbol map is used to visualize and communicate the spatial distr
 
 ## Chart
 
-https://raw.githubusercontent.com/CHIYUCHEN/image/main/Chart.png
+https://chiyuchen.github.io/images/ChoroplethMap.png
 
 Link: [https://chiyuchen.github.io/Challenge3_charts/](https://chiyuchen.github.io/Challenge3_charts/)
 
