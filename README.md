@@ -13,6 +13,8 @@ A choropleth map is used to visualize and communicate the spatial distribution a
 
 ## Proportional Map
 
+<img src="https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/ProportionalMap.png" alt="Choropleth Map" width="300"/>
+
 Link: [https://chiyuchen.github.io/Challenge3_proportional-symbol-map/](https://chiyuchen.github.io/Challenge3_proportional-symbol-map/)
 
 A proportional symbol map is used to visualize and communicate the spatial distribution and variation of a particular variable, such as population, by using different sizes of symbols to represent different levels of the variable. It can quickly highlight areas with high or low values, and help identify patterns or trends across regions.
