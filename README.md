@@ -1,6 +1,6 @@
 # Peter's WebMapping
 
-This repository contains visualizations of different types of maps and charts. 
+Hi! I'm Peter, a GIS analyst from Taiwan. In this website you'll see my works on Web Mapping course with the usage of html, css, javascript and leaflet. Hope you'll like it. 
 
 ## Choropleth Map
 
