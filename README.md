@@ -21,6 +21,8 @@ A proportional symbol map is used to visualize and communicate the spatial distr
 
 ## Chart
 
+<img src="https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/Chart.png" alt="Choropleth Map" width="300"/>
+
 Link: [https://chiyuchen.github.io/Challenge3_charts/](https://chiyuchen.github.io/Challenge3_charts/)
 
 A pie chart is used to represent data as a circle divided into wedges, with each wedge representing a proportion or percentage of the total. The purpose of a pie chart is to show how different parts contribute to a whole, and to compare the relative sizes of these parts. It is easy to read and understand, even for people with limited experience in data analysis. The use of different colors or shading for each wedge can also make it easier to distinguish between different categories and to highlight the most important data.
