@@ -4,7 +4,7 @@ A repository containing visualizations of different types of maps and charts.
 
 ## Choropleth Map
 
-![Choropleth Map]([https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/ChoroplethMap.png](https://raw.githubusercontent.com/CHIYUCHEN/image/main/Chart.png))
+![US Density](https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/ChoroplethMap.png)
 
 Link: [https://chiyuchen.github.io/Chanllenge3_choropleth-map/](https://chiyuchen.github.io/Chanllenge3_choropleth-map/)
 
@@ -12,7 +12,7 @@ A choropleth map is used to visualize and communicate the spatial distribution a
 
 ## Proportional Map
 
-![Proportional Map](https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/ProportionalMap.png)
+![Covid-19 Death Map](https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/ProportionalMap.png)
 
 Link: [https://chiyuchen.github.io/Challenge3_proportional-symbol-map/](https://chiyuchen.github.io/Challenge3_proportional-symbol-map/)
 
@@ -20,7 +20,7 @@ A proportional symbol map is used to visualize and communicate the spatial distr
 
 ## Chart
 
-https://chiyuchen.github.io/image/Chart.png
+![Chart](https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/Chart.png)
 
 Link: [https://chiyuchen.github.io/Challenge3_charts/](https://chiyuchen.github.io/Challenge3_charts/)
 
