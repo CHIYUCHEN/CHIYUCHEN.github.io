@@ -4,7 +4,7 @@ This repository contains visualizations of different types of maps and charts.
 
 ## Choropleth Map
 
-![US population density](/blob/main/ChoroplethMap.png)
+![US population density](https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/ChoroplethMap.png)
 
 
 Link: [https://chiyuchen.github.io/Chanllenge3_choropleth-map/](https://chiyuchen.github.io/Chanllenge3_choropleth-map/)
