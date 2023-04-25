@@ -3,7 +3,7 @@ Name : Peter (Chi-Yu) Chen
 E-mail : tp6ru4m30932540443@gmail.com 
 Mobile : 267-928-6413 
 
-# **EDUCATION ** 
+# EDUCATION
 **Temple University, Philadelphia, Pennsylvania
 Professional Science Master’s in Geographic Information Systems
 Courses Highlights: 
