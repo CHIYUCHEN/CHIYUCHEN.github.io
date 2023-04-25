@@ -12,7 +12,7 @@ A choropleth map is used to visualize and communicate the spatial distribution a
 
 ## Proportional Map
 
-<img src="https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/ProportionalMap.png" alt="Proportional Map" width="500"/>
+<img src="https://raw.githubusercontent.com/CHIYUCHEN/CHIYUCHEN.github.io/main/ProportionalMap.png" alt="Proportional Map" width="500"/>
 
 Link: [https://chiyuchen.github.io/Challenge3_proportional-symbol-map/](https://chiyuchen.github.io/Challenge3_proportional-symbol-map/)
 
@@ -20,7 +20,7 @@ A proportional symbol map is used to visualize and communicate the spatial distr
 
 ## Chart
 
-<img src="https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/Chart.png" alt="Chart" width="300"/>
+<img src="https://raw.githubusercontent.com/CHIYUCHEN/CHIYUCHEN.github.io/main/Chart.png" alt="Chart" width="300"/>
 
 Link: [https://chiyuchen.github.io/Challenge3_charts/](https://chiyuchen.github.io/Challenge3_charts/)
 
