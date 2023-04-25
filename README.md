@@ -1,7 +1,8 @@
 # My profolio
-Name : Peter (Chi-Yu) Chen
 
 <img src="https://raw.githubusercontent.com/CHIYUCHEN/CHIYUCHEN.github.io/main/peter.PNG" alt="Choropleth Map" width="100"/>
+
+Name : Peter (Chi-Yu) Chen
 
 E-mail : tp6ru4m30932540443@gmail.com 
 
