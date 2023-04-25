@@ -1,4 +1,4 @@
-# My profolio
+# Author
 
 <img src="https://raw.githubusercontent.com/CHIYUCHEN/CHIYUCHEN.github.io/main/peter.PNG" alt="Choropleth Map" width="100"/>
 
