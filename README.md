@@ -4,7 +4,7 @@ A repository containing visualizations of different types of maps and charts.
 
 ## Choropleth Map
 
-<img src="https://github.com/CHIYUCHEN/CHIYUCHEN.github.io/blob/main/ChoroplethMap.png" alt="Choropleth Map" width="500"/>
+<img src="https://raw.githubusercontent.com/CHIYUCHEN/CHIYUCHEN.github.io/main/ChoroplethMap.png" alt="Choropleth Map" width="500"/>
 
 Link: [https://chiyuchen.github.io/Chanllenge3_choropleth-map/](https://chiyuchen.github.io/Chanllenge3_choropleth-map/)
 
