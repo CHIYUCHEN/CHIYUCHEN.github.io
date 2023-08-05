@@ -2,11 +2,12 @@
 Hello there, fellow enthusiasts of the geospatial world! I'm Peter (Chi-Yu) Chen, and I'm excited to take you on a journey through my experiences as a GIS analyst. From the bustling streets of Taipei, Taiwan, to the academic corridors of Philadelphia, Pennsylvania, my path has been one of discovery, innovation, and a relentless passion for all things GIS.
 
 <img src="https://raw.githubusercontent.com/CHIYUCHEN/CHIYUCHEN.github.io/main/peter.PNG" alt="Choropleth Map" width="100"/>
+
 Name : Peter (Chi-Yu) Chen
 
-E-mail : tp6ru4m30932540443@gmail.com 
+E-mail : tp6ru4m30932540443@gmail.com
 
-Mobile : 267-928-6413 
+Mobile : 267-928-6413
 
 # Charting My Educational Odyssey
 My voyage began at the Chung Cheng Institute of Technology, National Defense University, in the scenic city of Taoyuan, Taiwan. There, I embarked on a Bachelor of Science in Environmental Information and Engineering, immersing myself in the intricacies of GIS Mapping, Cartography, and Geospatial Data Analysis. The foundation I built during those years would serve as the compass guiding my future endeavors.
